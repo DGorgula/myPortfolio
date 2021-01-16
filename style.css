@@ -1,0 +1,25 @@
+body {
+    margin:0;
+    padding: 0;
+}
+#nav-img {
+    /* border-radius: 50%;
+    max-width: 5em;
+    padding: 1em; */
+    
+}
+nav {
+    margin: 0;
+    padding: 0;
+    /* background-color: blueviolet; */
+    display: flex;
+}
+nav ul{
+    text-decoration:unset;
+    style:
+}
+.nav-link {
+    /* color: purple;
+    background-color: orangered; */
+
+}
